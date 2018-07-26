@@ -9,7 +9,7 @@ mtps_version: v=OCS.15
 ms.translationtype: HT
 ---
 
-# 在 Lync Server 2013 中使用 建立或修改正規化規則
+# 在 Lync Server 2013 中使用 [建置正規化規則] 建立或修改正規化規則
 
  
 
